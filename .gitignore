@@ -1,0 +1,13 @@
+# pycharm config
+.idea/*
+
+# compiled python files
+*.pyc
+slang_labs_app/__pycache__
+slang_labs_app/tfidf/__pycache__
+
+# uploaded files
+slang_labs_app/uploaded_files
+
+# log file
+slang_labs_app/logs.log
